@@ -1,0 +1,338 @@
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:764 */
+.fa-free-code-camp:before {
+    content: "\f2c5" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:765 */
+.fa-telegram:before {
+    content: "\f2c6" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:766 */
+.fa-thermometer-4:before,
+.fa-thermometer:before,
+.fa-thermometer-full:before {
+    content: "\f2c7" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:769 */
+.fa-thermometer-3:before,
+.fa-thermometer-three-quarters:before {
+    content: "\f2c8" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:771 */
+.fa-thermometer-2:before,
+.fa-thermometer-half:before {
+    content: "\f2c9" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:773 */
+.fa-thermometer-1:before,
+.fa-thermometer-quarter:before {
+    content: "\f2ca" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:775 */
+.fa-thermometer-0:before,
+.fa-thermometer-empty:before {
+    content: "\f2cb" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:777 */
+.fa-shower:before {
+    content: "\f2cc" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:778 */
+.fa-bathtub:before,
+.fa-s15:before,
+.fa-bath:before {
+    content: "\f2cd" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:781 */
+.fa-podcast:before {
+    content: "\f2ce" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:782 */
+.fa-window-maximize:before {
+    content: "\f2d0" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:783 */
+.fa-window-minimize:before {
+    content: "\f2d1" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:784 */
+.fa-window-restore:before {
+    content: "\f2d2" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:785 */
+.fa-times-rectangle:before,
+.fa-window-close:before {
+    content: "\f2d3" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:787 */
+.fa-times-rectangle-o:before,
+.fa-window-close-o:before {
+    content: "\f2d4" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:789 */
+.fa-bandcamp:before {
+    content: "\f2d5" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:790 */
+.fa-grav:before {
+    content: "\f2d6" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:791 */
+.fa-etsy:before {
+    content: "\f2d7" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:792 */
+.fa-imdb:before {
+    content: "\f2d8" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:793 */
+.fa-ravelry:before {
+    content: "\f2d9" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:794 */
+.fa-eercast:before {
+    content: "\f2da" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:795 */
+.fa-microchip:before {
+    content: "\f2db" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:796 */
+.fa-snowflake-o:before {
+    content: "\f2dc" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:797 */
+.fa-superpowers:before {
+    content: "\f2dd" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:798 */
+.fa-wpexplorer:before {
+    content: "\f2de" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/etc/_icons.scss:799 */
+.fa-meetup:before {
+    content: "\f2e0" !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-awesome/sass/src/all.scss:20 */
+.x-fa:before {
+    font-family: FontAwesome !important;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:3 */
+@font-face {
+    font-family: 'ExtJS';
+    src: url('../resources/font-ext/fonts/ExtJS.eot?-tqegh9');
+    src: url('../resources/font-ext/fonts/ExtJS.eot?#iefix-tqegh9') format('embedded-opentype'), url('../resources/font-ext/fonts/ExtJS.ttf?-tqegh9') format('truetype'), url('../resources/font-ext/fonts/ExtJS.woff?-tqegh9') format('woff'), url('../resources/font-ext/fonts/ExtJS.svg?-tqegh9#ExtJS') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:14 */
+.ext {
+    font-family: ExtJS;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:18 */
+.ext-sencha:before {
+    content: "\e61e";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:21 */
+.ext-checkbox-checked:before {
+    content: "\e613";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:24 */
+.ext-checkbox-unchecked:before {
+    content: "\e614";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:27 */
+.ext-chevron-left:before {
+    content: "\e615";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:30 */
+.ext-chevron-right:before {
+    content: "\e616";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:33 */
+.ext-double-chevron-left:before {
+    content: "\e617";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:36 */
+.ext-double-chevron-right:before {
+    content: "\e618";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:39 */
+.ext-sort-down:before {
+    content: "\e619";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:42 */
+.ext-sort-up:before {
+    content: "\e61a";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:45 */
+.ext-spinner-down:before {
+    content: "\e61b";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:48 */
+.ext-spinner-up:before {
+    content: "\e61c";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:51 */
+.ext-square-edit:before {
+    content: "\e61d";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:54 */
+.ext-equals-vertical:before {
+    content: "\e612";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:57 */
+.ext-expand:before {
+    content: "\e600";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:60 */
+.ext-columns:before {
+    content: "\e601";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:63 */
+.ext-dirty:before {
+    content: "\e602";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:66 */
+.ext-dirty-rtl:before {
+    content: "\e603";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:69 */
+.ext-edit-html:before {
+    content: "\e604";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:72 */
+.ext-equals:before {
+    content: "\e605";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:75 */
+.ext-collapse:before {
+    content: "\e606";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:78 */
+.ext-group-by:before {
+    content: "\e607";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:81 */
+.ext-minimize:before {
+    content: "\e608";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:84 */
+.ext-nw-handle:before {
+    content: "\e609";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:87 */
+.ext-ne-handle:before {
+    content: "\e60a";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:90 */
+.ext-sw-handle:before {
+    content: "\e60b";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:93 */
+.ext-se-handle:before {
+    content: "\e60c";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:96 */
+.ext-text-background-color:before {
+    content: "\e60d";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:99 */
+.ext-text-color:before {
+    content: "\e60e";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:102 */
+.ext-text-decrease:before {
+    content: "\e60f";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:105 */
+.ext-text-increase:before {
+    content: "\e610";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/packages/font-ext/sass/src/all.scss:108 */
+.ext-unpin:before {
+    content: "\e611";
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/classic/theme-triton/sass/src/Component.scss:3 */
+@font-face {
+    font-family: 'Open Sans';
+    src: local("OpenSans-Light");
+    src: url('fonts/OpenSans-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/classic/theme-triton/sass/src/Component.scss:11 */
+@font-face {
+    font-family: 'Open Sans';
+    src: local("OpenSans-LightItalic");
+    src: url('fonts/OpenSans-LightItalic.ttf');
+    font-weight: 300;
+    font-style: italic;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/classic/theme-triton/sass/src/Component.scss:19 */
+@font-face {
+    font-family: 'Open Sans';
+    src: local("OpenSans-Regular");
+    src: url('fonts/OpenSans-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/classic/theme-triton/sass/src/Component.scss:27 */
+@font-face {
+    font-family: 'Open Sans';
+    src: local("OpenSans-Italic");
+    src: url('fonts/OpenSans-Italic.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/classic/theme-triton/sass/src/Component.scss:35 */
+@font-face {
+    font-family: 'Open Sans';
+    src: local("OpenSans-Semibold");
+    src: url('fonts/OpenSans-Semibold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/classic/theme-triton/sass/src/Component.scss:43 */
+@font-face {
+    font-family: 'Open Sans';
+    src: local("OpenSans-SemiboldItalic");
+    src: url('fonts/OpenSans-SemiboldItalic.ttf');
+    font-weight: 600;
+    font-style: italic;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/classic/theme-triton/sass/src/Component.scss:51 */
+@font-face {
+    font-family: 'Open Sans';
+    src: local("OpenSans-Bold");
+    src: url('fonts/OpenSans-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/classic/theme-triton/sass/src/Component.scss:59 */
+@font-face {
+    font-family: 'Open Sans';
+    src: local("OpenSans-BoldItalic");
+    src: url('fonts/OpenSans-BoldItalic.ttf');
+    font-weight: 700;
+    font-style: italic;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/classic/theme-triton/sass/src/Component.scss:67 */
+@font-face {
+    font-family: 'Open Sans';
+    src: local("OpenSans-ExtraBold");
+    src: url('fonts/OpenSans-ExtraBold.ttf');
+    font-weight: 800;
+    font-style: normal;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/classic/theme-triton/sass/src/Component.scss:75 */
+@font-face {
+    font-family: 'Open Sans';
+    src: local("OpenSans-ExtraBoldItalic");
+    src: url('fonts/OpenSans-ExtraBoldItalic.ttf');
+    font-weight: 800;
+    font-style: italic;
+}
+/* C:/Users/estar/Documents/Ext JS/ExtsJS1/ext/classic/theme-triton/sass/src/menu/Menu.scss:1 */
+.x-menu-item-active .x-menu-item-text {
+    font-weight: 400;
+}
